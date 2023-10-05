@@ -1,0 +1,12 @@
+C:\Users\jflor\Documents\Employes\Employes\Employees.Persistence\bin\Debug\net6.0\Employees.Persistence.deps.json
+C:\Users\jflor\Documents\Employes\Employes\Employees.Persistence\bin\Debug\net6.0\Employees.Persistence.dll
+C:\Users\jflor\Documents\Employes\Employes\Employees.Persistence\bin\Debug\net6.0\Employees.Persistence.pdb
+C:\Users\jflor\Documents\Employes\Employes\Employees.Persistence\obj\Debug\net6.0\Employees.Persistence.csproj.AssemblyReference.cache
+C:\Users\jflor\Documents\Employes\Employes\Employees.Persistence\obj\Debug\net6.0\Employees.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jflor\Documents\Employes\Employes\Employees.Persistence\obj\Debug\net6.0\Employees.Persistence.AssemblyInfoInputs.cache
+C:\Users\jflor\Documents\Employes\Employes\Employees.Persistence\obj\Debug\net6.0\Employees.Persistence.AssemblyInfo.cs
+C:\Users\jflor\Documents\Employes\Employes\Employees.Persistence\obj\Debug\net6.0\Employees.Persistence.csproj.CoreCompileInputs.cache
+C:\Users\jflor\Documents\Employes\Employes\Employees.Persistence\obj\Debug\net6.0\Employees.Persistence.dll
+C:\Users\jflor\Documents\Employes\Employes\Employees.Persistence\obj\Debug\net6.0\refint\Employees.Persistence.dll
+C:\Users\jflor\Documents\Employes\Employes\Employees.Persistence\obj\Debug\net6.0\Employees.Persistence.pdb
+C:\Users\jflor\Documents\Employes\Employes\Employees.Persistence\obj\Debug\net6.0\ref\Employees.Persistence.dll

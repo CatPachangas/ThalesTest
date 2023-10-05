@@ -1,0 +1,293 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.API\\Employees.API.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.API\\Employees.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.API\\Employees.API.csproj",
+        "projectName": "Employees.API",
+        "projectPath": "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.API\\Employees.API.csproj",
+        "packagesPath": "C:\\Users\\jflor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.API\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jflor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.Infraestructure\\Employees.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.Infraestructure\\Employees.Infraestructure.csproj"
+              },
+              "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.Services\\Employees.Services.csproj": {
+                "projectPath": "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.Services\\Employees.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
+              "target": "Package",
+              "version": "[1.19.5, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.317\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.Domain\\Employees.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.Domain\\Employees.Domain.csproj",
+        "projectName": "Employees.Domain",
+        "projectPath": "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.Domain\\Employees.Domain.csproj",
+        "packagesPath": "C:\\Users\\jflor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jflor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.317\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.Infraestructure\\Employees.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.Infraestructure\\Employees.Infraestructure.csproj",
+        "projectName": "Employees.Infraestructure",
+        "projectPath": "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.Infraestructure\\Employees.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\jflor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jflor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.Domain\\Employees.Domain.csproj": {
+                "projectPath": "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.Domain\\Employees.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[110.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.317\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.Services\\Employees.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.Services\\Employees.Services.csproj",
+        "projectName": "Employees.Services",
+        "projectPath": "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.Services\\Employees.Services.csproj",
+        "packagesPath": "C:\\Users\\jflor\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\jflor\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.Domain\\Employees.Domain.csproj": {
+                "projectPath": "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.Domain\\Employees.Domain.csproj"
+              },
+              "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.Infraestructure\\Employees.Infraestructure.csproj": {
+                "projectPath": "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.Infraestructure\\Employees.Infraestructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "FluentValidation.AspNetCore": {
+              "target": "Package",
+              "version": "[11.3.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.1.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.317\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "3T7o70H7u0YhahZqkDTpGUN8F9ebKlXCo+3h9NCyXls4G515JVxLhzg6GG4J0JNn2Uo62sU2hlSobvJfZFZnVw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jflor\\Documents\\Employes\\Employes\\Employees.Infraestructure\\Employees.Infraestructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jflor\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\jflor\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\jflor\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\jflor\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\jflor\\.nuget\\packages\\restsharp\\110.2.0\\restsharp.110.2.0.nupkg.sha512",
+    "C:\\Users\\jflor\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\jflor\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\jflor\\.nuget\\packages\\system.text.json\\7.0.2\\system.text.json.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
